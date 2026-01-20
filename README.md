@@ -1,1 +1,1 @@
-# StealthSeekers UI\n\nModern Next.js + TypeScript frontend for Stealth Seekers Investigative Agency\n\n## Tech Stack\n- Next.js 15+\n- TypeScript\n- Tailwind CSS\n- App Router\n\n## Development\n```bash\nnpm install\nnpm run dev\n```
+ Modern Next.js frontend for Stealth Seekers Investigative Agency
